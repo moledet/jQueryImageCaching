@@ -40,7 +40,7 @@ Fore refresh image better save of cachingObject.
 <img data-src="path/to/image">
 
 <script>
-  var cachingObject = $('img').templateLoader();
+  var cachingObject = $('img').imageCaching();
   
   $('button').on('click',function(){
         cachingObject.refresh();
