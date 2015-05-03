@@ -2,6 +2,7 @@
 jQuery plugin of image caching in localStorage
 
 **NOTICE:** The most of browsers memory limit of localStorage is 5MB.
+
 **NOTICE:** Correct way of image caching is using response of http server cache headers.
 
 ### Version
@@ -16,7 +17,7 @@ Simple way
 <img data-src="path/to/image.(png,jpeg..)">
 
 <script>
-    $('img').templateLoader();
+    $('img').imageCaching();
 </script>
 ```
 
