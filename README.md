@@ -33,7 +33,7 @@ May use renderCallback and attach on several images.
          }});
 </script>
 ```
-By default all images save with key name of his url, if you need custom key name - use attribute 'data-caching-key'.
+By default all images save with key name as his url, if you need custom key name - use attribute 'data-caching-key'.
 
 For refresh image better save of cachingObject.
 ```javascript
