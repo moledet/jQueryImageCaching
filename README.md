@@ -61,4 +61,4 @@ where was changed attribute src.
 
 > **crossOrigin** - default 'Anonymous', origin of image in default mode not been send cookie or session id to server. Default
 mode may do problems for images that need authorization. This parameter change on problems with server headers. In most cases
-the set this params to "null" will be remove problems.
+set this params to "null" will be remove problems.
